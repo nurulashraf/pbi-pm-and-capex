@@ -44,7 +44,7 @@ KPI cards to show: total PM spend YTD, total CapEx spend YTD, PM spend as % of C
 
 ## Dashboard Preview
 
-![NRW Overview Dashboard](screenshots/dashboard_overview.png)
+![Maintenance Overview Dashboard](screenshots/maintenance_overview.png)
 
 ## Data Notice
 
